@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+### **陈嘉骏**
+
+来自马来西亚，就读于北京航空航天大学—计算机学院。
+
+---
+
+由于本人经常读完就忘，左边进右边出。
+
+因此希望通过写博客的方式做笔记记录，加深自己对一些知识的印象 ;-;
