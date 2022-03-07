@@ -10,6 +10,11 @@ end
 
 group :jekyll_plugins do
   gem "jekyll-katex"
+  gem "kramdown-math-katex"
+  gem "katex"
+  gem "execjs"
+  gem "therubyrhino"
+  gem "duktape"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
