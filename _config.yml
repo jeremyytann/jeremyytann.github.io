@@ -117,12 +117,21 @@ assets:
 
 paginate: 10
 
-markdown: kramdown
+plugins:
+  - jekyll-katex
 
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
-  math_engine: katex
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: highlight
+    # default_lang: console
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 collections:
   tabs:
