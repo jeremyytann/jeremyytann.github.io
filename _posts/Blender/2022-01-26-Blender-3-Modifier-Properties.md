@@ -1,5 +1,5 @@
 ---
-title: Blender 0.3 — 修改器属性 Modifier Properties
+title: Blender 3 — 修改器属性 Modifier Properties
 date: 2022-01-26 02:37:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

@@ -1,9 +1,9 @@
 ---
-title: Blender 0.5 — 渲染 Rendering
+title: Blender 5 — 渲染 Rendering
 date: 2022-01-26 03:54:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]
-img_path: /assets/img/Blender/Blender-0.5
+img_path: /assets/img/Blender/Blender-5
 ---
 
 

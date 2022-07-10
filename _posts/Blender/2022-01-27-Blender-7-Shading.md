@@ -1,9 +1,9 @@
 ---
-title: Blender 0.7 — 阴影 Shading
+title: Blender 7 — 阴影 Shading
 date: 2022-01-27 15:02:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]
-img_path: /assets/img/Blender/Blender-0.7
+img_path: /assets/img/Blender/Blender-7
 ---
 
 在**阴影模式（Shading）**里，**节点（Nodes）**的执行顺序是**由左到右**的。

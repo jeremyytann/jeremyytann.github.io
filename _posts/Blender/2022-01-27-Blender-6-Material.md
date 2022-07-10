@@ -1,5 +1,5 @@
 ---
-title: Blender 0.6 — 材质 Material
+title: Blender 6 — 材质 Material
 date: 2022-01-27 01:40:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

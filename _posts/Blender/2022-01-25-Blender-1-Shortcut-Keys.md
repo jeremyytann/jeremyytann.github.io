@@ -1,5 +1,5 @@
 ---
-title: Blender 0.1 — 快捷键 Shortcut Keys
+title: Blender 1 — 快捷键 Shortcut Keys
 date: 2022-01-25 17:45:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

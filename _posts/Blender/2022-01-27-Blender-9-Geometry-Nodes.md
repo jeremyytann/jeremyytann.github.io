@@ -1,9 +1,9 @@
 ---
-title: Blender 0.9 — 几何节点 Geometry Nodes
+title: Blender 9 — 几何节点 Geometry Nodes
 date: 2022-01-27 17:41:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]
-img_path: /assets/img/Blender/Blender-0.9
+img_path: /assets/img/Blender/Blender-9
 ---
 
 和**阴影模式（Shading）**一样，**几何节点（Geometry Nodes）**里的**节点（Nodes）**的执行顺序也是**由左到右**的。

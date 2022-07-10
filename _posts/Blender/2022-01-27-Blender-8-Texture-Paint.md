@@ -1,9 +1,9 @@
 ---
-title: Blender 0.8 — 纹理绘制 Texture Paint
+title: Blender 8 — 纹理绘制 Texture Paint
 date: 2022-01-27 17:04:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]
-img_path: /assets/img/Blender/Blender-0.8
+img_path: /assets/img/Blender/Blender-8
 ---
 
 若想手动给物体表面材质上色，可以先到**阴影模式（Shading）**里添加一个**图像纹理（Image Texture）**，然后新建一个图像，再到**纹理绘制模式（Texture Paint）**中进行绘制即可。在新建图像中，**宽度（Width）及高度（Height）并非越大越好**。

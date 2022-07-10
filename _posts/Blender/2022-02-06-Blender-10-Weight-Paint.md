@@ -1,9 +1,9 @@
 ---
-title: Blender 0.10 — 权重绘制 Weight Paint
+title: Blender 10 — 权重绘制 Weight Paint
 date: 2022-02-06 18:23:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]
-img_path: /assets/img/Blender/Blender-0.10
+img_path: /assets/img/Blender/Blender-10
 ---
 
 权重绘制（Weight Paint），是在物体表面上绘制权重，权重图中的**颜色由蓝到红分别表示着0到1之间的值**。这里使用绘制权重的原因是为了让甜甜圈表面上的彩色糖只出现在我们想让它出现的位置，而不是到处都是彩色糖。

@@ -1,5 +1,5 @@
 ---
-title: Blender 0.4 — 雕刻 Sculpting
+title: Blender 4 — 雕刻 Sculpting
 date: 2022-01-26 03:32:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]
