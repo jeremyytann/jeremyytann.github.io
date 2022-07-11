@@ -4,6 +4,7 @@ date: 2022-07-11 15:45:00 +0800
 categories: [Notes, Algorithm]
 tags: [Algorithm]
 img_path: /assets/img/Algorithm/Algorithm-3
+katex: true
 ---
 
 ## **插入排序简介**
