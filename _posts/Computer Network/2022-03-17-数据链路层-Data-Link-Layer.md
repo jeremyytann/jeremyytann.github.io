@@ -1,5 +1,5 @@
 ---
-title: 计算机网络 3 — 数据链路层
+title: 数据链路层 Data Link Layer
 date: 2022-03-17 18:00:00 +0800
 categories: [Notes, Computer Network]
 tags: [Computer Network]

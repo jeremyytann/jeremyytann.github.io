@@ -1,5 +1,5 @@
 ---
-title: Blender 5 — 渲染 Rendering
+title: 渲染 Rendering
 date: 2022-01-26 03:54:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

@@ -1,5 +1,5 @@
 ---
-title: 算法 3 — 插入排序 (Insertion Sort)
+title: 插入排序 Insertion Sort
 date: 2022-07-11 15:45:00 +0800
 categories: [Notes, Algorithm]
 tags: [Algorithm]

@@ -1,5 +1,5 @@
 ---
-title: Blender 10 — 权重绘制 Weight Paint
+title: 权重绘制 Weight Paint
 date: 2022-02-06 18:23:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

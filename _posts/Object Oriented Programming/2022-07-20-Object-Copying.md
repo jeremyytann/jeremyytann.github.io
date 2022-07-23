@@ -1,5 +1,5 @@
 ---
-title: OOP 2 — Object Copying
+title: Object Copying
 date: 2022-07-20 16:05:00 +0800
 categories: [Notes, Object-Oriented Programming]
 tags: [Object-Oriented Programming]

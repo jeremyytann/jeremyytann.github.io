@@ -1,5 +1,5 @@
 ---
-title: 计算机网络 2 — 物理层
+title: 物理层 Physical Layer
 date: 2022-03-05 13:01:00 +0800
 categories: [Notes, Computer Network]
 tags: [Computer Network]

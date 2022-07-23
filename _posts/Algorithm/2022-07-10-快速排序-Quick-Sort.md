@@ -1,5 +1,5 @@
 ---
-title: 算法 2 — 快速排序 (Quick Sort)
+title: 快速排序 Quick Sort
 date: 2022-07-10 18:25:00 +0800
 categories: [Notes, Algorithm]
 tags: [Algorithm]

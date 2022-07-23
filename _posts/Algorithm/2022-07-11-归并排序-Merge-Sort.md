@@ -1,5 +1,5 @@
 ---
-title: 算法 5 — 归并排序 (Merge Sort)
+title: 归并排序 Merge Sort
 date: 2022-07-11 16:17:00 +0800
 categories: [Notes, Algorithm]
 tags: [Algorithm]

@@ -1,5 +1,5 @@
 ---
-title: Blender 8 — 纹理绘制 Texture Paint
+title: 纹理绘制 Texture Paint
 date: 2022-01-27 17:04:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

@@ -1,5 +1,5 @@
 ---
-title: OOP 3 — Constructor and Destructor
+title: Constructor and Destructor
 date: 2022-07-20 17:36:00 +0800
 categories: [Notes, Object-Oriented Programming]
 tags: [Object-Oriented Programming]

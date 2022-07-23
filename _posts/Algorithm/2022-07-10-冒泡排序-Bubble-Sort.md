@@ -1,5 +1,5 @@
 ---
-title: 算法 1 — 冒泡排序 (Bubble Sort)
+title: 冒泡排序 Bubble Sort
 date: 2022-07-10 15:40:00 +0800
 categories: [Notes, Algorithm]
 tags: [Algorithm]

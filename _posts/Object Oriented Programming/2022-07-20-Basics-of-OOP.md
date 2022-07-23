@@ -1,5 +1,5 @@
 ---
-title: OOP 1 — Basics
+title: Basics of OOP
 date: 2022-07-20 14:24:00 +0800
 categories: [Notes, Object-Oriented Programming]
 tags: [Object-Oriented Programming]

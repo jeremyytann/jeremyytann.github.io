@@ -1,5 +1,5 @@
 ---
-title: Blender 2 — 功能 Functions
+title: 功能 Functions
 date: 2022-01-26 01:15:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

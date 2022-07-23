@@ -1,5 +1,5 @@
 ---
-title: 算法 4 — 选择排序 (Selection Sort)
+title: 选择排序 Selection Sort
 date: 2022-07-11 16:04:00 +0800
 categories: [Notes, Algorithm]
 tags: [Algorithm]

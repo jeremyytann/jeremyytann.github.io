@@ -1,5 +1,5 @@
 ---
-title: 计算机网络 6 — 应用层
+title: 应用层 Application Layer
 date: 2022-05-12 20:06:00 +0800
 categories: [Notes, Computer Network]
 tags: [Computer Network]

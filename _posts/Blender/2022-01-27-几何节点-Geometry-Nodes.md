@@ -1,5 +1,5 @@
 ---
-title: Blender 9 — 几何节点 Geometry Nodes
+title: 几何节点 Geometry Nodes
 date: 2022-01-27 17:41:00 +0800
 categories: [Notes, Blender]
 tags: [Blender]

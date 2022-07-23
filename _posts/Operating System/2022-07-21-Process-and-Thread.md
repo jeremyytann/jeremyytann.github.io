@@ -1,5 +1,5 @@
 ---
-title: OS 1 — Process and Thread
+title: Process and Thread
 date: 2022-07-21 15:45:00 +0800
 categories: [Notes, Operating System]
 tags: [Operating System]
