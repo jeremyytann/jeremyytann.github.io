@@ -2,7 +2,7 @@
 title: 归并排序 Merge Sort
 date: 2022-07-11 16:17:00 +0800
 categories: [Notes, Algorithm]
-tags: [Algorithm]
+tags: [Algorithm, Sorting]
 img_path: /assets/img/Algorithm/Algorithm-5
 katex: true
 ---

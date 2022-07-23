@@ -2,7 +2,7 @@
 title: Model-View-Controller Pattern
 date: 2022-07-23 15:32:00 +0800
 categories: [Notes, Software Architecture]
-tags: [Software Architecture]
+tags: [Software Architecture, MVC]
 ---
 
 ## **Model-View-Controller (MVC)**

@@ -2,7 +2,7 @@
 title: 冒泡排序 Bubble Sort
 date: 2022-07-10 15:40:00 +0800
 categories: [Notes, Algorithm]
-tags: [Algorithm]
+tags: [Algorithm, Sorting]
 img_path: /assets/img/Algorithm/Algorithm-1
 katex: true
 ---

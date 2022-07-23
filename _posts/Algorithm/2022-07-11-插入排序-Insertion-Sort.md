@@ -2,7 +2,7 @@
 title: 插入排序 Insertion Sort
 date: 2022-07-11 15:45:00 +0800
 categories: [Notes, Algorithm]
-tags: [Algorithm]
+tags: [Algorithm, Sorting]
 img_path: /assets/img/Algorithm/Algorithm-3
 katex: true
 ---

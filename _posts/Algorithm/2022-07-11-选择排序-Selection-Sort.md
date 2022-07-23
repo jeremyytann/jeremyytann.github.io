@@ -2,7 +2,7 @@
 title: 选择排序 Selection Sort
 date: 2022-07-11 16:04:00 +0800
 categories: [Notes, Algorithm]
-tags: [Algorithm]
+tags: [Algorithm, Sorting]
 img_path: /assets/img/Algorithm/Algorithm-4
 katex: true
 ---

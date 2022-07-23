@@ -2,7 +2,7 @@
 title: 快速排序 Quick Sort
 date: 2022-07-10 18:25:00 +0800
 categories: [Notes, Algorithm]
-tags: [Algorithm]
+tags: [Algorithm, Sorting]
 img_path: /assets/img/Algorithm/Algorithm-2
 katex: true
 ---
