@@ -23,7 +23,7 @@ timezone: Asia/Kuala_Lumpur
 
 title: Jeremy's Blog                         # the main title
 
-tagline: 我的学习日记   # it will display as the sub-title
+tagline: My Study Diary   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Jeremy's Blog
