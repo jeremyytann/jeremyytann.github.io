@@ -1,5 +1,5 @@
 ---
-title: Basic Syntax
+title: Basics of Dart
 date: 2022-08-28 16:35:00 +0800
 categories: [Notes, Dart]
 tags: [Dart]
@@ -154,3 +154,4 @@ print(number);	// prints 5
 number ??= 10;
 print(number);	// still prints 5
 ```
+
