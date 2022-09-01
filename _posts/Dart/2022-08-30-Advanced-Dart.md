@@ -6,7 +6,7 @@ tags: [Dart]
 img_path: /assets/img/Dart
 ---
 
-## **Async & Await**
+## **Async and Await**
 
 ---
 
