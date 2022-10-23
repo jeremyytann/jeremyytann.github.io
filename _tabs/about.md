@@ -4,10 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### **陈嘉骏**
-
-来自马来西亚，就读于北京航空航天大学—计算机学院。
+## **Jeremy Tan**
 
 ---
 
-希望通过博客的方式做笔记，加深自己对一些知识的印象。
+I am a **final year student at Beihang University** in China pursuing a Bachelor of Computer Science and Technology and **enjoy turning ideas into projects or products**.
+
+I am a **software engineer** interested in front-end development and have experience designing and developing software like landing pages and web applications with React, Angular, Django, Firebase, and more.
